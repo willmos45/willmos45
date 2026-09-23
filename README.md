@@ -10,7 +10,7 @@ Repos here are kept private — this page is a portfolio of what I've built, not
 Self-serve conference-room auto-booking platform; proposed rollout scope covers 31K+ Uber employees, currently under internal architecture review.
 
 **AI Executive Scheduling Assistant**
-Python + Google/Slack APIs + Claude Code/MCP. Triages 15+ scheduling requests a week, cross-checks calendars against custom rules, and drafts ready-to-send responses.
+Python + Google / Slack APIs + Claude Code / MCP. Triages 15+ scheduling requests a week, cross-checks calendars against custom rules, and drafts ready-to-send responses.
 
 **Recurring-Meeting Gmail Add-on**
 Apps Script Gmail Add-on using a two-tier slot-finding algorithm for recurring meetings — outperforms native Gemini calendar parsing.
