@@ -22,8 +22,10 @@ Scores meeting load, flags overbooked stretches, and recommends fixes across exe
 
 ### Personal projects
 
-**MapMusicPOC** — iOS
-*Draw a circle, get a playlist — there's no greater gift than sharing a song with someone.* Draw a freehand shape anywhere on the map and discover what people around the world are listening to right now, surfaced as tappable pins. A context- and location-based way to find good music. SwiftUI, MapKit, MusicKit.
+**MapMusicPOC** — iOS | *Draw a circle, get a playlist.*
+There is no greater gift than sharing a song. Draw a freehand shape anywhere on the map to discover what people are listening to right now—surfaced as real-time, tappable pins. It is a new, location-based way to explore music.
+
+*Built with: SwiftUI • MapKit • MusicKit*
 
 **Voice Slide Advance** — macOS
 Lets a remote video-call participant say "next slide" to hands-free advance the presenter's shared Google Slides deck.
