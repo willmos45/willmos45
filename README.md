@@ -30,5 +30,5 @@ There is no greater gift than sharing a song. Draw a freehand shape anywhere on 
 **Voice Slide Advance** — macOS
 Lets a remote video-call participant say "next slide" to hands-free advance the presenter's shared Google Slides deck.
 
-**This resume site**
-Interactive personal resume/portfolio site — static HTML/CSS/JS on Vercel.
+**Resume site**
+Interactive personal resume / portfolio site — static HTML / CSS / JS on Vercel.
