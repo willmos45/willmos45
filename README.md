@@ -1,14 +1,13 @@
 # William M.
 
-Executive Business Partner at Uber, building AI-enabled ops tooling and a few personal apps on the side.
-
-**Resume, contact form, and full background:** [williammresume.vercel.app](https://williammresume.vercel.app)
-
-Repos here are kept private — this page is a portfolio of what I've built, not a code index. Reach out via the resume site above if you'd like to see something in more depth.
+Repos here are kept private — this page is a portfolio of what I've built, not a code index.
 
 ---
 
 ### At Uber
+
+**Universal Room Booker** *(in progress)*
+Self-serve conference-room auto-booking platform; proposed rollout scope covers 31K+ Uber employees, currently under internal architecture review.
 
 **AI Executive Scheduling Assistant**
 Python + Google/Slack APIs + Claude Code/MCP. Triages 15+ scheduling requests a week, cross-checks calendars against custom rules, and drafts ready-to-send responses.
@@ -18,9 +17,6 @@ Apps Script Gmail Add-on using a two-tier slot-finding algorithm for recurring m
 
 **Executive Fatigue Ledger**
 Scores meeting load, flags overbooked stretches, and recommends fixes across exec calendars.
-
-**Universal Room Booker** *(in progress)*
-Self-serve conference-room auto-booking platform; proposed rollout scope covers 31K+ Uber employees, currently under internal architecture review.
 
 10+ automation systems shipped in a single month across these and similar tools.
 
