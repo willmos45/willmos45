@@ -6,7 +6,7 @@ Repos here are kept private — this page is a portfolio of what I've built, not
 
 ### At Uber
 
-**Universal Room Booker** *(in progress)*
+**Universal Room Booker**
 Self-serve conference-room auto-booking platform; proposed rollout scope covers 31K+ Uber employees, currently under internal architecture review.
 
 **AI Executive Scheduling Assistant**
